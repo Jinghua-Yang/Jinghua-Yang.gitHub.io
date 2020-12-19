@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Meng Ding
+title: Jinghua Yang
 comments: true
 permalink: /homepage/
 
