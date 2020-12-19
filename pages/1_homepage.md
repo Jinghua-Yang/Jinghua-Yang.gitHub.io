@@ -13,7 +13,7 @@ permalink: /homepage/
  
 ### Biography
  
-| <br>**Jinghua Yang** is currently pursuing the Ph.D. degree (advised by [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm) and [Prof. Xi-Le Zhao](https://zhaoxile.github.io/)) with the [School of Mathematical Sciences](http://www.math.uestc.edu.cn/index.htm), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), Chengdu, China. His research interest includes image processing, tensor analysis, and deep learning. <br> <br> **Email:** <dingmeng56@163.com>  &emsp; **Follow me:** [Google Scholar](https://scholar.google.com/citations?view_op=&user=Q5D6JL8AAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Meng_Ding15)  &emsp; [GitHub](https://github.com/MengDing56) <br><br>| &emsp;![image](https://MengDing56.github.io/images/dingmeng.jpg)&emsp; |
+| <br>**Jinghua Yang** is currently pursuing the Ph.D. degree (advised by [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/) and [Prof.Chuan Chen](https://www.researchgate.net/profile/Chuan_Chen5)) with the [Faculty of Information Technology], [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China. His research interest includes data mining, image processing, tensor analysis, and deep learning. <br> <br> **Email:** <yangjinghua110@126.com>  &emsp; **Follow me:** [Google Scholar](https://scholar.google.com/citations?view_op=&user=Q5D6JL8AAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Meng_Ding15)  &emsp; [GitHub](https://github.com/MengDing56) <br><br>| &emsp;![image](https://Jinghua-Yang.github.io/images/dingmeng.jpg)&emsp; |
 
 ### News
 * Dec. 2020: one paper "Hyperspectral Super-Resolution via Interpretable Block-Term Tensor Modeling" has been accepted by _**IEEE Journal of Selected Topics in Signal Processing**_.
@@ -36,43 +36,45 @@ permalink: /homepage/
 
 #### Journal Articles (Submitted)
 
-* **Meng Ding**, Xiao Fu, Ting-Zhu Huang, Jun Wang, Xi-Le Zhao, "Hyperspectral Super-Resolution via Interpretable Block-Term Tensor Modeling", 2020. [[PDF]](https://MengDing56.gitHub.io/papers/20Arxiv_SCBTD_HSR.pdf)
+* Xi-Le Zhao，**Jing-Hua Yang**, Tai-Xiang Jaing, Tian-Hui Ma, Ting-Zhu Huang, "Hyperspectral Super-Resolution via Interpretable Block-Term Tensor Modeling", 2020. [[PDF]](https://MengDing56.gitHub.io/papers/20Arxiv_SCBTD_HSR.pdf)
 
 
 #### Journal Articles (Published)
 
-* **Meng Ding**, Ting-Zhu Huang, Xi-Le Zhao, Michael K. Ng, Tian-Hui Ma, "Tensor train rank minimization with nonlocal self-similarity for tensor completion", _Inverse Problems and Imaging_ 2020. [[PDF]](https://MengDing56.gitHub.io/papers/20Arxiv_Nonlocal_TT_TC.pdf) 
 
-* **Meng Ding**, Ting-Zhu Huang, Tian-Hui Ma, Xi-Le Zhao, Jing-Hua Yang, "Cauchy noise removal using group-based low-rank prior", _Applied Mathematics and Computation_, vol. 372, pp. 124971, 2020. [[PDF]](https://MengDing56.gitHub.io/papers/20AMC_Nonlocal_Cauchy.pdf) [[Code]](https://MengDing56.gitHub.io/codes/GBLR.rar)
 
-* **Meng Ding**, Ting-Zhu Huang, Teng-Yu Ji, Xi-Le Zhao, Jing-Hua Yang, "Low-Rank Tensor Completion Using Matrix Factorization Based on Tensor Train Rank and Total Variation", _Journal of Scientific Computing_, vol. 81, pp. 941–964, 2020. [[PDF]](https://MengDing56.gitHub.io/papers/20JSC_MFTTTV_TC.pdf) [[Code]](https://MengDing56.gitHub.io/codes/MF-TTTV.rar)
+* **Jing-Hua Yang**, Xi-Le Zhao, Tian-Hui Ma, Meng Ding, Ting-Zhu Huang, "Tensor train rank minimization with hybrid smoothness regularization for visual data recovery", _Applied Mathematical Modelling_, vol. 81, pp. 711-726, 2020. [[PDF]](https://MengDing56.gitHub.io/papers/20AMM_JHYang_TT.pdf)
 
-* **Meng Ding**, Ting-Zhu Huang, Si Wang, Jin-Jin Mei, Xi-Le Zhao, "Total variation with overlapping group sparsity for deblurring images under Cauchy noise", _Applied Mathematics and Computation_, vol. 341, pp. 128–147, 2020. [[PDF]](https://MengDing56.gitHub.io/papers/19AMC_OGSTV_Cauchy.pdf) [[Code_debluring]](https://MengDing56.gitHub.io/codes/Cauchy_OGSTV_debluring.rar) [[Code_denoising]](https://MengDing56.gitHub.io/codes/Cauchy_OGSTV_denoising.rar)
+* **Jing-Hua Yang**, Xi-Le Zhao, Tian-Hui Ma, Yong Chen, Ting-Zhu Huang, Meng Ding, "Remote sensing images destriping using unidirectional hybrid total variation and nonconvex low-rank regularization", _Journal of Computational and Applied Mathematics_, vol. 363, pp. 124-144, 2020. [[PDF]](https://MengDing56.gitHub.io/papers/20JCAM_JHYang_RS.pdf)
 
-* Jing-Hua Yang, Xi-Le Zhao, Tian-Hui Ma, **Meng Ding**, Ting-Zhu Huang, "Tensor train rank minimization with hybrid smoothness regularization for visual data recovery", _Applied Mathematical Modelling_, vol. 81, pp. 711-726, 2020. [[PDF]](https://MengDing56.gitHub.io/papers/20AMM_JHYang_TT.pdf)
+* Meng Ding, Ting-Zhu Huang, Tian-Hui Ma, Xi-Le Zhao, **Jing-Hua Yang**, "Cauchy noise removal using group-based low-rank prior", _Applied Mathematics and Computation_, vol. 372, pp. 124971, 2020. [[PDF]](https://MengDing56.gitHub.io/papers/20AMC_Nonlocal_Cauchy.pdf) [[Code]](https://MengDing56.gitHub.io/codes/GBLR.rar)
 
-* Jing-Hua Yang, Xi-Le Zhao, Tian-Hui Ma, Yong Chen, Ting-Zhu Huang, **Meng Ding**, "Remote sensing images destriping using unidirectional hybrid total variation and nonconvex low-rank regularization", _Journal of Computational and Applied Mathematics_, vol. 363, pp. 124-144, 2020. [[PDF]](https://MengDing56.gitHub.io/papers/20JCAM_JHYang_RS.pdf)
+* Meng Ding, Ting-Zhu Huang, Teng-Yu Ji, Xi-Le Zhao, **Jing-Hua Yang**, "Low-Rank Tensor Completion Using Matrix Factorization Based on Tensor Train Rank and Total Variation", _Journal of Scientific Computing_, vol. 81, pp. 941–964, 2020. [[PDF]](https://MengDing56.gitHub.io/papers/20JSC_MFTTTV_TC.pdf) [[Code]](https://MengDing56.gitHub.io/codes/MF-TTTV.rar)
+
+
+
+
+
 
 #### Conference Papers
 
-* Tian Lu, Xi-Le Zhao, Yu-Bang Zheng, **Meng Ding**, Xiao-Tong Li, "Tensor Completion via Global Low-Tubal-Rankness and Nonlocal Self-Similarity", in _IEEE Global Conference on Signal and Information Processing (GlobalSIP)_, 2019, pp. 1-5. (**Oral**) [[PDF]](https://MengDing56.gitHub.io/papers/20GlobalSIP_TianLu.pdf)
  
 ---
 
 ### Education 
-* 09/2019-09/2020: Oregon State University; Exchange visitor in Signal Processing (Supervisor: [Prof. Xiao Fu](http://people.oregonstate.edu/~fuxia/) and [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
+* 09/2020-Current: Macau University of Science and Technology (MUST); Ph. D. student in Faculty of Information Technology (Supervisor: [Prof. Hong-Ning Dai](http://www.math.uestc.edu.cn/info/1081/2041.htm))
 
-* 09/2018-Current: University of Electronic Science and Technology of China (UESTC); Ph. D. student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
+* 09/2019-06/2020: Chengdu College of University of Electronic Science and Technology of China; Teaching assistant in College of Arts and Sciences
 
-* 09/2016-06/2018: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics (Supervisor: [Prof. Ting-Zhu Huang](http://www.math.uestc.edu.cn/info/1081/2041.htm))
+* 09/2016-06/2019: University of Electronic Science and Technology of China (UESTC); Master student in Applied Mathematics (Supervisor: [Prof. Xi-Le Zhao](https://zhaoxile.github.io/) 
 
-* 09/2012-06/2016: University of Electronic Science and Technology of China (UESTC); Bachelor student in Information and Computing Science
+* 09/2012-06/2016: Taiyuan Normal University; Bachelor student in Mathematics and Applied Mathematics
 
 ---
 
 ### Awards and Honors
-*  First-class academic scholarship, UESTC, 2019
-*  Special postgraduate scholarship of science, UESTC, 2018
+*  First-class academic scholarship, UESTC, 2018
+*  First-class academic scholarship, UESTC, 2017
 
 ---
 
