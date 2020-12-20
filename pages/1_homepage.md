@@ -54,7 +54,7 @@ analysis", _Journal of Applied Mathematics and Computation_, vol. 367, pp. 12478
 ---
 
 ### Education 
-* 09/2020-Current: Macau University of Science and Technology (MUST); Ph. D. student in Faculty of Information Technology (Supervisor: [Prof. Hong-Ning Dai](http://www.math.uestc.edu.cn/info/1081/2041.htm))
+* 09/2020-Current: Macau University of Science and Technology (MUST); Ph. D. student in Faculty of Information Technology (Supervisor: [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/))
 
 * 09/2019-06/2020: Chengdu College of University of Electronic Science and Technology of China; Teaching assistant in College of Arts and Sciences
 
