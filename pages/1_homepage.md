@@ -13,39 +13,31 @@ permalink: /homepage/
  
 ### Biography
  
-| <br>**Jinghua Yang** is currently pursuing the Ph.D. degree (advised by [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/) and [Prof.Chuan Chen](https://www.researchgate.net/profile/Chuan_Chen5)) with the [Faculty of Information Technology], [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China. His research interest includes data mining, image processing, tensor analysis, and deep learning. <br> <br> **Email:** <yangjinghua110@126.com>  &emsp; **Follow me:** [Google Scholar](https://scholar.google.com/citations?view_op=&user=Q5D6JL8AAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Meng_Ding15)  &emsp; [GitHub](https://github.com/MengDing56) <br><br>| &emsp;![image](https://Jinghua-Yang.github.io/images/dingmeng.jpg)&emsp; |
+| <br>**Jinghua Yang** is currently pursuing the Ph.D. degree (advised by [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/) and [Prof.Chuan Chen](https://www.researchgate.net/profile/Chuan_Chen5)) with the [Faculty of Information Technology], [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China. His research interest includes data mining, image processing, tensor analysis, and deep learning. <br> <br> **Email:** <yangjinghua110@126.com>  &emsp; **Follow me:** [Google Scholar](https://scholar.google.com/citations?view_op=&user=Q5D6JL8AAAAJ)  &emsp; [Researchgate](https://www.researchgate.net/profile/Meng_Ding15)  &emsp; [GitHub](https://github.com/MengDing56) <br><br>| &emsp;![image](https://Jinghua-Yang.github.io/images/yjh.jpg)&emsp; |
 
 ### News
-* Dec. 2020: one paper "Hyperspectral Super-Resolution via Interpretable Block-Term Tensor Modeling" has been accepted by _**IEEE Journal of Selected Topics in Signal Processing**_.
 
-* Nov. 2020: Good news, our paper ["Tensor train rank minimization with nonlocal self-similarity for tensor completion"](https://MengDing56.gitHub.io/papers/20Arxiv_Nonlocal_TT_TC.pdf) has been accepted by _**Inverse Problems and Imaging**_.
 
-* June 2020: Check out this submission ["Hyperspectral super-resolution via interpretable block-term tensor modeling"](https://MengDing56.gitHub.io/papers/20Arxiv_SCBTD_HSR.pdf). Here we propose a new tensor-based hyperspectral super-resolution.
+* Jan. 2020: **J-H. Yang**, X-L. Zhao, T-H. Ma, M. Ding, T-Z. Huang ["Tensor train rank minimization with hybrid smoothness regularization for visual data recovery"](https://Jinghua-Yang.github.io/papers/20AMM_JHYang_TT.pdf) has been accepted by _**Applied Mathematical Modelling**_.
 
-* Feb. 2020: We submit ["Tensor train rank minimization with nonlocal self-similarity for tensor completion"](https://MengDing56.gitHub.io/papers/20Arxiv_Nonlocal_TT_TC.pdf). In this work, we propose a new nonlocal tensor train rank-based tensor completion method by exploring the nonlocal self-similarity prior of tensor data.
 
-* Jan. 2020: J-H. Yang, X-L. Zhao, T-H. Ma, **M. Ding**, T-Z. Huang ["Tensor train rank minimization with hybrid smoothness regularization for visual data recovery"](https://MengDing56.gitHub.io/papers/20AMM_JHYang_TT.pdf) has been accepted by _**Applied Mathematical Modelling**_.
-
-* Dec. 2019: **M. Ding**, T-Z. Huang, T-H. Ma, X-L. Zhao, J-H. Yang, ["Cauchy noise removal using group-based low-rank prior"](https://MengDing56.gitHub.io/papers/20AMC_Nonlocal_Cauchy.pdf) has been accepted by _**Applied Mathematics and Computation**_.
-
-* Aug. 2019: **M. Ding**, T-Z. Huang, T-Y. Ji, X-L. Zhao, J-H. Yang, ["Low-Rank Tensor Completion Using Matrix Factorization Based on Tensor Train Rank and Total Variation"](https://MengDing56.gitHub.io/papers/20JSC_MFTTTV_TC.pdf) has been accepted by _**Journal of Scientific Computing**_.
 
 ---
 
 ### Publications
 
-#### Journal Articles (Submitted)
-
-* Xi-Le Zhao，**Jing-Hua Yang**, Tai-Xiang Jaing, Tian-Hui Ma, Ting-Zhu Huang, "Hyperspectral Super-Resolution via Interpretable Block-Term Tensor Modeling", 2020. [[PDF]](https://MengDing56.gitHub.io/papers/20Arxiv_SCBTD_HSR.pdf)
-
-
-#### Journal Articles (Published)
 
 
 
-* **Jing-Hua Yang**, Xi-Le Zhao, Tian-Hui Ma, Meng Ding, Ting-Zhu Huang, "Tensor train rank minimization with hybrid smoothness regularization for visual data recovery", _Applied Mathematical Modelling_, vol. 81, pp. 711-726, 2020. [[PDF]](https://MengDing56.gitHub.io/papers/20AMM_JHYang_TT.pdf)
+#### Journal Articles
+* **Jing-Hua Yang**, Xi-Le Zhao, Tian-Hui Ma, Meng Ding, Ting-Zhu Huang, "Tensor train rank minimization with hybrid smoothness regularization for visual data recovery", _Applied Mathematical Modelling_, vol. 81, pp. 711-726, 2020. [[PDF]](https://Jinghua-Yang.github.io/papers/20AMM_JHYang_TT.pdf)
 
-* **Jing-Hua Yang**, Xi-Le Zhao, Tian-Hui Ma, Yong Chen, Ting-Zhu Huang, Meng Ding, "Remote sensing images destriping using unidirectional hybrid total variation and nonconvex low-rank regularization", _Journal of Computational and Applied Mathematics_, vol. 363, pp. 124-144, 2020. [[PDF]](https://MengDing56.gitHub.io/papers/20JCAM_JHYang_RS.pdf)
+* **Jing-Hua Yang**, Xi-Le Zhao, Teng-Yu Ji, Tian-Hui Ma, Ting-Zhu Huang, "Low-rank tensor train for tensor robust principal component
+analysis", _Journal of Applied Mathematics and Computation_, vol. 367, pp. 124783, 2020. [[PDF]](https://Jinghua-Yang.github.io/papers/20AMC_JHYang_PCA.pdf)
+
+* **Jing-Hua Yang**, Xi-Le Zhao, Tian-Hui Ma, Yong Chen, Ting-Zhu Huang, Meng Ding, "Remote sensing images destriping using unidirectional hybrid total variation and nonconvex low-rank regularization", _Journal of Computational and Applied Mathematics_, vol. 363, pp. 124-144, 2020. [[PDF]](https://Jinghua-Yang.github.io/papers/20JCAM_JHYang_RS.pdf)
+
+* **Jing-Hua Yang**, Xi-Le Zhao, Tian-Hui Ma, Yong Chen, Ting-Zhu Huang, Meng Ding, "Total variation and high-order total variation adaptive model for restoring blurred images with Cauchy noise", _Journal of Computers and Mathematics with Applications_, vol. 77, pp. 1255-1272, 2019. [[PDF]](https://Jinghua-Yang.github.io/papers/19CMA_JHYang_Cauchy.pdf)
 
 * Meng Ding, Ting-Zhu Huang, Tian-Hui Ma, Xi-Le Zhao, **Jing-Hua Yang**, "Cauchy noise removal using group-based low-rank prior", _Applied Mathematics and Computation_, vol. 372, pp. 124971, 2020. [[PDF]](https://MengDing56.gitHub.io/papers/20AMC_Nonlocal_Cauchy.pdf) [[Code]](https://MengDing56.gitHub.io/codes/GBLR.rar)
 
