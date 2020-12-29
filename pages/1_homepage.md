@@ -37,7 +37,7 @@ analysis", _Journal of Applied Mathematics and Computation_, vol. 367, pp. 12478
 
 * **Jing-Hua Yang**, Xi-Le Zhao, Tian-Hui Ma, Yong Chen, Ting-Zhu Huang, Meng Ding, "Remote sensing images destriping using unidirectional hybrid total variation and nonconvex low-rank regularization", _Journal of Computational and Applied Mathematics_, vol. 363, pp. 124-144, 2020. [[PDF]](https://Jinghua-Yang.github.io/papers/20JCAM_JHYang_RS.pdf)
 
-* **Jing-Hua Yang**, Xi-Le Zhao, Tian-Hui Ma, Yong Chen, Ting-Zhu Huang, Meng Ding, "Total variation and high-order total variation adaptive model for restoring blurred images with Cauchy noise", _Journal of Computers and Mathematics with Applications_, vol. 77, pp. 1255-1272, 2019. [[PDF]](https://Jinghua-Yang.github.io/papers/19CMA_JHYang_Cauchy.pdf)
+* **Jing-Hua Yang**, Xi-Le Zhao, Tian-Hui Ma, Yong Chen, Ting-Zhu Huang, Meng Ding, "Total variation and high-order total variation adaptive model for restoring blurred images with Cauchy noise", _Journal of Computers and Mathematics with Applications_, vol. 77, pp. 1255-1272, 2019. [[PDF]](https://Jinghua-Yang.github.io/papers/19CMA_JHYang_Cauchy.pdf)[[Code]](https://github.com/uestctensorgroup/Cauchy_HTVAM)
 
 * Meng Ding, Ting-Zhu Huang, Tian-Hui Ma, Xi-Le Zhao, **Jing-Hua Yang**, "Cauchy noise removal using group-based low-rank prior", _Applied Mathematics and Computation_, vol. 372, pp. 124971, 2020. [[PDF]](https://MengDing56.gitHub.io/papers/20AMC_Nonlocal_Cauchy.pdf) [[Code]](https://MengDing56.gitHub.io/codes/GBLR.rar)
 
