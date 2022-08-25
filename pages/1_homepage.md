@@ -73,6 +73,7 @@ analysis", _Journal of Applied Mathematics and Computation_, vol. 367, pp. 12478
 ---
 
 ### Awards and Honors
+*  Participate in Academic Research Grants (PGS), MUST, 2020-2023
 *  First-class academic scholarship, UESTC, 2018
 *  First-class academic scholarship, UESTC, 2017
 
