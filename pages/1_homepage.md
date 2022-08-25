@@ -18,7 +18,7 @@ permalink: /homepage/
 ### News
 
 
-* Jan. 2020: **J-H. Yang**, X-L. Zhao, T-H. Ma, M. Ding, T-Z. Huang ["Tensor train rank minimization with hybrid smoothness regularization for visual data recovery"](https://Jinghua-Yang.github.io/papers/20AMM_JHYang_TT.pdf) has been accepted by _**Applied Mathematical Modelling**_.
+
 
 
 
@@ -30,6 +30,12 @@ permalink: /homepage/
 
 
 #### Journal Articles
+*  **Jing-Hua Yang**, Chuan Chen, Hong-Ning Dai, Le-Le Fu, Zibin Zheng, "A structure noise-aware tensor dictionary learning method for high-dimensional data clustering", _Information Sciences_, vol. , pp. , 2022. [[PDF]]
+
+*  Le-Le Fu, **Jing-Hua Yang**, Chuan Chen, Chuan-fu Zhang, "Low-rank tensor approximation with local structure for multi-view intrinsic subspace clustering", _Information Sciences_, vol. 606, pp. 877-891, 2022. [[PDF]]
+
+* Xi-Le Zhao, **Jing-Hua Yang**, Tian-Hui Ma, Tai-Xiang Jiang, Michael K. Ng，Ting-Zhu Huang, "Tensor completion via complementary global, local, and nonlocal priors", _IEEE Transactions on Image Processing_, vol. 31, pp. 984-999, 2021. [[PDF]]()
+
 * **Jing-Hua Yang**, Xi-Le Zhao, Tian-Hui Ma, Meng Ding, Ting-Zhu Huang, "Tensor train rank minimization with hybrid smoothness regularization for visual data recovery", _Applied Mathematical Modelling_, vol. 81, pp. 711-726, 2020. [[PDF]](https://Jinghua-Yang.github.io/papers/20AMM_JHYang_TT.pdf)
 
 * **Jing-Hua Yang**, Xi-Le Zhao, Teng-Yu Ji, Tian-Hui Ma, Ting-Zhu Huang, "Low-rank tensor train for tensor robust principal component
@@ -49,7 +55,9 @@ analysis", _Journal of Applied Mathematics and Computation_, vol. 367, pp. 12478
 
 
 #### Conference Papers
+* **Jing-Hua Yang**, Chuan Chen, Hong-Ning Dai, Meng Ding, Le-le Fu, Zibin Zheng,  "Hierarchical representation for multi-view clustering: from intra-sample to intra-view to inter-view", _in ACM International Conference on Information and Knowledge Management, 2022. [[PDF]]
 
+* Meng Ding, Ting-Zhu Huang, Xi-Le Zhao, Jie Lin, **Jing-Hua Yang**, "Factor-regularized nonnegative tensor decomposition for blind hyperspectral unmixing", _in IEEE International Geoscience and Remote Sensing Symposium IGARSS, 2021. [[PDF]]
  
 ---
 
