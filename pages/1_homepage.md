@@ -29,9 +29,9 @@ permalink: /homepage/
 
 
 #### Journal Articles
-*  **Jing-Hua Yang**, Chuan Chen, Hong-Ning Dai, Le-Le Fu, Zibin Zheng, "A structure noise-aware tensor dictionary learning method for high-dimensional data clustering", _Information Sciences_, 2022. [[PDF]]
+*  **Jing-Hua Yang**, Chuan Chen, Hong-Ning Dai, Le-Le Fu, Zibin Zheng, "A structure noise-aware tensor dictionary learning method for high-dimensional data clustering", _Information Sciences_, 2022. [[PDF]]()
 
-*  Le-Le Fu, **Jing-Hua Yang**, Chuan Chen, Chuan-fu Zhang, "Low-rank tensor approximation with local structure for multi-view intrinsic subspace clustering", _Information Sciences_, vol. 606, pp. 877-891, 2022. [[PDF]]
+*  Le-Le Fu, **Jing-Hua Yang**, Chuan Chen, Chuan-fu Zhang, "Low-rank tensor approximation with local structure for multi-view intrinsic subspace clustering", _Information Sciences_, vol. 606, pp. 877-891, 2022. [[PDF]]()
 
 * Xi-Le Zhao, **Jing-Hua Yang**, Tian-Hui Ma, Tai-Xiang Jiang, Michael K. Ng，Ting-Zhu Huang, "Tensor completion via complementary global, local, and nonlocal priors", _IEEE Transactions on Image Processing_, vol. 31, pp. 984-999, 2021. [[PDF]]()
 
@@ -54,9 +54,9 @@ analysis", _Journal of Applied Mathematics and Computation_, vol. 367, pp. 12478
 
 
 #### Conference Papers
-* **Jing-Hua Yang**, Chuan Chen, Hong-Ning Dai, Meng Ding, Le-le Fu, Zibin Zheng,  "Hierarchical representation for multi-view clustering: from intra-sample to intra-view to inter-view", In ACM International Conference on Information and Knowledge Management, 2022. [[PDF]]
+* **Jing-Hua Yang**, Chuan Chen, Hong-Ning Dai, Meng Ding, Le-le Fu, Zibin Zheng,  "Hierarchical representation for multi-view clustering: from intra-sample to intra-view to inter-view", In ACM International Conference on Information and Knowledge Management, 2022. [[PDF]]()
 
-* Meng Ding, Ting-Zhu Huang, Xi-Le Zhao, Jie Lin, **Jing-Hua Yang**, "Factor-regularized nonnegative tensor decomposition for blind hyperspectral unmixing", In IEEE International Geoscience and Remote Sensing Symposium IGARSS, 2021. [[PDF]]
+* Meng Ding, Ting-Zhu Huang, Xi-Le Zhao, Jie Lin, **Jing-Hua Yang**, "Factor-regularized nonnegative tensor decomposition for blind hyperspectral unmixing", In IEEE International Geoscience and Remote Sensing Symposium IGARSS, 2021. [[PDF]]()
  
 ---
 
