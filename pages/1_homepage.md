@@ -55,9 +55,9 @@ analysis", _Journal of Applied Mathematics and Computation_, vol. 367, pp. 12478
 
 
 #### Conference Papers
-* **Jing-Hua Yang**, Chuan Chen, Hong-Ning Dai, Meng Ding, Le-le Fu, Zibin Zheng,  "Hierarchical representation for multi-view clustering: from intra-sample to intra-view to inter-view", _in ACM International Conference on Information and Knowledge Management, 2022. [[PDF]]
+* **Jing-Hua Yang**, Chuan Chen, Hong-Ning Dai, Meng Ding, Le-le Fu, Zibin Zheng,  "Hierarchical representation for multi-view clustering: from intra-sample to intra-view to inter-view", In ACM International Conference on Information and Knowledge Management, 2022. [[PDF]]
 
-* Meng Ding, Ting-Zhu Huang, Xi-Le Zhao, Jie Lin, **Jing-Hua Yang**, "Factor-regularized nonnegative tensor decomposition for blind hyperspectral unmixing", _in IEEE International Geoscience and Remote Sensing Symposium IGARSS, 2021. [[PDF]]
+* Meng Ding, Ting-Zhu Huang, Xi-Le Zhao, Jie Lin, **Jing-Hua Yang**, "Factor-regularized nonnegative tensor decomposition for blind hyperspectral unmixing", In IEEE International Geoscience and Remote Sensing Symposium IGARSS, 2021. [[PDF]]
  
 ---
 
