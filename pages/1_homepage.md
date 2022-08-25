@@ -15,7 +15,6 @@ permalink: /homepage/
  
 | <br>**Jinghua Yang** is currently pursuing the Ph.D. degree (advised by [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/) and [Prof.Chuan Chen](https://www.researchgate.net/profile/Chuan_Chen5)) with the [Faculty of Information Technology], [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China. Her research interest includes data mining, image processing, tensor analysis, and deep learning. <br> <br> **Email:** <yangjinghua110@126.com>  &emsp; **Follow me:** [Google Scholar](https://scholar.google.com.tw/citations?hl=zh-CN&user=LarvIwUAAAAJ)  &emsp;
 
-### News
 
 
 
