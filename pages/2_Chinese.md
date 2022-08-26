@@ -17,7 +17,7 @@ permalink: /Chinese/
 
 ### 消息
 * 2022.8: 文章 **J-H. Yang**, C. Chen, H-N. Dai, L-L. Fu, Z. Zheng ["A structure noise-aware tensor dictionary learning method for high-dimensional data clustering"] 被期刊 _**Information Sciences**_ 接受.
-* 2022.8: 文章 **J-H. Yang**,  C. Chen, H-N. Dai, L-L. Fu, Z. Zheng ["Tensor train rank minimization with hybrid smoothness regularization for visual data recovery"](https://MengDing56.gitHub.io/papers/20AMM_JHYang_TT.pdf) 被会议 _**CIKM2022**_ 接受.
+* 2022.8: 文章 **J-H. Yang**,  C. Chen, H-N. Dai, L-L. Fu, Z. Zheng ["Hierarchical representation for multi-view clustering: from intra-sample to intra-view to inter-view"](https://MengDing56.gitHub.io/papers/20AMM_JHYang_TT.pdf) 被会议 _**CIKM2022**_ 接受.
 * 2021.12: 文章  X-L. Zhao, **J-H. Yang**, T-H. Ma, T-X Jiang, M. K. Ng, T-Z. Huang ["Tensor completion via complementary global, local, and nonlocal priors"] 被期刊 _**IEEE Transactions on Image Processing**_ 接受.
 * 2020.01: 文章 **J-H. Yang**, X-L. Zhao, T-H. Ma, M. Ding, T-Z. Huang ["Tensor train rank minimization with hybrid smoothness regularization for visual data recovery"](https://MengDing56.gitHub.io/papers/20AMM_JHYang_TT.pdf) 被期刊 _**Applied Mathematical Modelling**_ 接受.
 
