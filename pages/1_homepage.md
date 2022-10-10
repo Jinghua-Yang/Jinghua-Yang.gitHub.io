@@ -30,7 +30,9 @@ permalink: /homepage/
 
 
 #### Journal Articles
-*  **Jing-Hua Yang**, Chuan Chen, Hong-Ning Dai, Le-Le Fu, Zibin Zheng, "A structure noise-aware tensor dictionary learning method for high-dimensional data clustering", _Information Sciences_, 2022. [[PDF]]()
+*  **Jing-Hua Yang**, Le-Le Fu, Chuan Chen, Hong-Ning Dai, Zibin Zheng, "Cross-View Graph Matching for Incomplete Multi-view Clustering", _Neurocomputing_, 2022. [[PDF]]()
+*  
+*  **Jing-Hua Yang**, Chuan Chen, Hong-Ning Dai, Le-Le Fu, Zibin Zheng, "A structure noise-aware tensor dictionary learning method for high-dimensional data clustering", _Information Sciences_, vol. 612, pp. 87-106, 2022. [[PDF]](https://Jinghua-Yang.github.io/papers/22IS_JHYang_clustering.pdf)
 
 *  Le-Le Fu, **Jing-Hua Yang**, Chuan Chen, Chuan-fu Zhang, "Low-rank tensor approximation with local structure for multi-view intrinsic subspace clustering", _Information Sciences_, vol. 606, pp. 877-891, 2022. [[PDF]]()
 
