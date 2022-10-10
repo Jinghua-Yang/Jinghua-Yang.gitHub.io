@@ -16,6 +16,7 @@ permalink: /Chinese/
 | <br>**杨晶华**，2020级人工智能博士生， 资讯科技学院，澳门科技大学，导师为[戴宏宁教授](https://www.henrylab.net/pubtype/journal/)和[陈川副教授](https://www.researchgate.net/profile/Chuan_Chen5)。 硕士就读于电子科技大学数学科学学院。目前研究方向包括数据挖掘，图像处理、张量分析，深度学习。 <br> <br> **邮箱:** <yangjinghua110@126.com> <br>  **链接:** [Google Scholar](https://scholar.google.com/citations?view_op=&user=Q5D6JL8AAAAJ)  &emsp;  |
 
 ### 消息
+* 2022.10: 文章 **J-H. Yang**, L-L. Fu, C. Chen, H-N. Dai, Z. Zheng ["Cross-View Graph Matching for Incomplete Multi-view Clustering"] 被期刊 _**Neurocomputing**_ 接受.
 * 2022.8: 文章 **J-H. Yang**, C. Chen, H-N. Dai, L-L. Fu, Z. Zheng ["A structure noise-aware tensor dictionary learning method for high-dimensional data clustering"] 被期刊 _**Information Sciences**_ 接受.
 * 2022.8: 文章 **J-H. Yang**,  C. Chen, H-N. Dai, M. Ding, L-L. Fu, Z. Zheng ["Hierarchical representation for multi-view clustering: from intra-sample to intra-view to inter-view"](https://MengDing56.gitHub.io/papers/20AMM_JHYang_TT.pdf) 被会议 _**CIKM2022**_ 接受.
 * 2021.12: 文章  X-L. Zhao, **J-H. Yang**, T-H. Ma, T-X Jiang, M. K. Ng, T-Z. Huang ["Tensor completion via complementary global, local, and nonlocal priors"] 被期刊 _**IEEE Transactions on Image Processing**_ 接受.
@@ -29,11 +30,13 @@ permalink: /Chinese/
 
 
 #### 期刊 (发表)
-*  **Jing-Hua Yang**, Chuan Chen, Hong-Ning Dai, Le-Le Fu, Zibin Zheng, "A structure noise-aware tensor dictionary learning method for high-dimensional data clustering", _Information Sciences_, 2022. [[全文]]()
+*  **Jing-Hua Yang**, Le-Le Fu, Chuan Chen, Hong-Ning Dai, Zibin Zheng, "Cross-View Graph Matching for Incomplete Multi-view Clustering", _Neurocomputing_, 2022. [[全文]]()
 
-*  Le-Le Fu, **Jing-Hua Yang**, Chuan Chen, Chuan-fu Zhang, "Low-rank tensor approximation with local structure for multi-view intrinsic subspace clustering", _Information Sciences_, vol. 606, pp. 877-891, 2022. [[全文]]()
+*  **Jing-Hua Yang**, Chuan Chen, Hong-Ning Dai, Le-Le Fu, Zibin Zheng, "A structure noise-aware tensor dictionary learning method for high-dimensional data clustering", _Information Sciences_, vol. 612, pp. 87-106, 2022. [[全文]](https://Jinghua-Yang.github.io/papers/22IS_JHYang_clustering.pdf)
 
-* Xi-Le Zhao, **Jing-Hua Yang**, Tian-Hui Ma, Tai-Xiang Jiang, Michael K. Ng，Ting-Zhu Huang, "Tensor completion via complementary global, local, and nonlocal priors", _IEEE Transactions on Image Processing_, vol. 31, pp. 984-999, 2021. [[全文]]()
+*  Le-Le Fu, **Jing-Hua Yang**, Chuan Chen, Chuan-fu Zhang, "Low-rank tensor approximation with local structure for multi-view intrinsic subspace clustering", _Information Sciences_, vol. 606, pp. 877-891, 2022. [[全文]](https://Jinghua-Yang.github.io/papers/22IS_lele_SC.pdf)
+
+* Xi-Le Zhao, **Jing-Hua Yang**, Tian-Hui Ma, Tai-Xiang Jiang, Michael K. Ng，Ting-Zhu Huang, "Tensor completion via complementary global, local, and nonlocal priors", _IEEE Transactions on Image Processing_, vol. 31, pp. 984-999, 2021. [[全文]](https://Jinghua-Yang.github.io/papers/21TIP_JHYang_TC.pdf)
 
 * **Jing-Hua Yang**, Xi-Le Zhao, Tian-Hui Ma, Meng Ding, Ting-Zhu Huang, "Tensor train rank minimization with hybrid smoothness regularization for visual data recovery", _Applied Mathematical Modelling_, vol. 81, pp. 711-726, 2020. [[全文]](https://Jinghua-Yang.github.io/papers/20AMM_JHYang_TT.pdf)
 
