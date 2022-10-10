@@ -34,9 +34,9 @@ permalink: /homepage/
 
 *  **Jing-Hua Yang**, Chuan Chen, Hong-Ning Dai, Le-Le Fu, Zibin Zheng, "A structure noise-aware tensor dictionary learning method for high-dimensional data clustering", _Information Sciences_, vol. 612, pp. 87-106, 2022. [[PDF]](https://Jinghua-Yang.github.io/papers/22IS_JHYang_clustering.pdf)
 
-*  Le-Le Fu, **Jing-Hua Yang**, Chuan Chen, Chuan-fu Zhang, "Low-rank tensor approximation with local structure for multi-view intrinsic subspace clustering", _Information Sciences_, vol. 606, pp. 877-891, 2022. [[PDF]]()
+*  Le-Le Fu, **Jing-Hua Yang**, Chuan Chen, Chuan-fu Zhang, "Low-rank tensor approximation with local structure for multi-view intrinsic subspace clustering", _Information Sciences_, vol. 606, pp. 877-891, 2022. [[PDF]](https://Jinghua-Yang.github.io/papers/22IS_lele_SC.pdf)
 
-* Xi-Le Zhao, **Jing-Hua Yang**, Tian-Hui Ma, Tai-Xiang Jiang, Michael K. Ng，Ting-Zhu Huang, "Tensor completion via complementary global, local, and nonlocal priors", _IEEE Transactions on Image Processing_, vol. 31, pp. 984-999, 2021. [[PDF]]()
+* Xi-Le Zhao, **Jing-Hua Yang**, Tian-Hui Ma, Tai-Xiang Jiang, Michael K. Ng，Ting-Zhu Huang, "Tensor completion via complementary global, local, and nonlocal priors", _IEEE Transactions on Image Processing_, vol. 31, pp. 984-999, 2021. [[PDF]](https://Jinghua-Yang.github.io/papers/21TIP_JHYang_TC.pdf)
 
 * **Jing-Hua Yang**, Xi-Le Zhao, Tian-Hui Ma, Meng Ding, Ting-Zhu Huang, "Tensor train rank minimization with hybrid smoothness regularization for visual data recovery", _Applied Mathematical Modelling_, vol. 81, pp. 711-726, 2020. [[PDF]](https://Jinghua-Yang.github.io/papers/20AMM_JHYang_TT.pdf)
 
