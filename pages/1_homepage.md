@@ -14,7 +14,7 @@ permalink: /homepage/
 ### Biography
  
 | <br>**Jinghua Yang** is currently pursuing the Ph.D. degree (advised by [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/) and [Prof.Chuan Chen](https://www.researchgate.net/profile/Chuan_Chen5)) with the [Faculty of Information Technology], [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China. Her research interest includes data mining, image processing, tensor analysis, and deep learning. <br> <br> **Email:** <yangjinghua110@126.com>  &emsp; **Follow me:** [Google Scholar](https://scholar.google.com.tw/citations?hl=zh-CN&user=LarvIwUAAAAJ)  &emsp;
- **CV:** [CV](https://Jinghua-Yang.github.io/papers/CV.pdf)  &emsp;
+ **CV:** [CV]()  &emsp;
 
 
 
@@ -30,7 +30,9 @@ permalink: /homepage/
 
 
 #### Journal Articles
-*  **Jing-Hua Yang**, Le-Le Fu, Chuan Chen, Hong-Ning Dai, Zibin Zheng, "Cross-View Graph Matching for Incomplete Multi-view Clustering", _Neurocomputing_, 2022. [[PDF]]()
+*  **Jing-Hua Yang**, Chuan Chen, Hong-Ning Dai, Meng Ding, Zhebin Wu, Zibin Zheng, "Robust Corrupted Data Recovery and Clustering via Generalized Transformed Tensor Low-rank Representation", _IEEE Transactions on Neural Networks and Learning Systems_, 2022. [[PDF]]( )
+
+*  **Jing-Hua Yang**, Le-Le Fu, Chuan Chen, Hong-Ning Dai, Zibin Zheng, "Cross-View Graph Matching for Incomplete Multi-view Clustering", _Neurocomputing_, vol. 515, pp. 79-88, 2023. [[PDF]](https://Jinghua-Yang.github.io/papers/22Neu_JHYang_clustering.pdf)
 
 *  **Jing-Hua Yang**, Chuan Chen, Hong-Ning Dai, Le-Le Fu, Zibin Zheng, "A structure noise-aware tensor dictionary learning method for high-dimensional data clustering", _Information Sciences_, vol. 612, pp. 87-106, 2022. [[PDF]](https://Jinghua-Yang.github.io/papers/22IS_JHYang_clustering.pdf)
 
@@ -57,7 +59,7 @@ analysis", _Journal of Applied Mathematics and Computation_, vol. 367, pp. 12478
 
 
 #### Conference Papers
-* **Jing-Hua Yang**, Chuan Chen, Hong-Ning Dai, Meng Ding, Le-le Fu, Zibin Zheng,  "Hierarchical representation for multi-view clustering: from intra-sample to intra-view to inter-view", In ACM International Conference on Information and Knowledge Management, 2022. [[PDF]]()
+* **Jing-Hua Yang**, Chuan Chen, Hong-Ning Dai, Meng Ding, Le-le Fu, Zibin Zheng,  "Hierarchical representation for multi-view clustering: from intra-sample to intra-view to inter-view", In ACM International Conference on Information and Knowledge Management, 2022. [[PDF]](https://Jinghua-Yang.github.io/papers/22CIKM_JHYang_HMVC.pdf)
 
 * Meng Ding, Ting-Zhu Huang, Xi-Le Zhao, Jie Lin, **Jing-Hua Yang**, "Factor-regularized nonnegative tensor decomposition for blind hyperspectral unmixing", In IEEE International Geoscience and Remote Sensing Symposium IGARSS, 2021. [[PDF]]()
  
