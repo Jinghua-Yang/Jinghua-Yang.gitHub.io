@@ -16,6 +16,7 @@ permalink: /Chinese/
 | <br>**杨晶华**，2020级人工智能博士生， 资讯科技学院，澳门科技大学，导师为[戴宏宁教授](https://www.henrylab.net/pubtype/journal/)和[陈川副教授](https://www.researchgate.net/profile/Chuan_Chen5)。 硕士就读于电子科技大学数学科学学院。目前研究方向包括数据挖掘，图像处理、张量分析，深度学习。 <br> <br> **邮箱:** <yangjinghua110@126.com> <br>  **链接:** [Google Scholar](https://scholar.google.com/citations?view_op=&user=Q5D6JL8AAAAJ)  &emsp;  |
 
 ### 消息
+* 2022.10: 文章 **J-H. Yang**, C. Chen, H-N. Dai, M. Ding, Z. Wu, Z. Zheng ["Robust Corrupted Data Recovery and Clustering via Generalized Transformed Tensor Low-rank Representation"] 被期刊 _**IEEE Transactions on Neural Networks and Learning Systems**_ 接受.
 * 2022.10: 文章 **J-H. Yang**, L-L. Fu, C. Chen, H-N. Dai, Z. Zheng ["Cross-View Graph Matching for Incomplete Multi-view Clustering"] 被期刊 _**Neurocomputing**_ 接受.
 * 2022.8: 文章 **J-H. Yang**, C. Chen, H-N. Dai, L-L. Fu, Z. Zheng ["A structure noise-aware tensor dictionary learning method for high-dimensional data clustering"] 被期刊 _**Information Sciences**_ 接受.
 * 2022.8: 文章 **J-H. Yang**,  C. Chen, H-N. Dai, M. Ding, L-L. Fu, Z. Zheng ["Hierarchical representation for multi-view clustering: from intra-sample to intra-view to inter-view"] 被会议 _**CIKM2022**_ 接受.
@@ -30,7 +31,9 @@ permalink: /Chinese/
 
 
 #### 期刊 (发表)
-*  **Jing-Hua Yang**, Le-Le Fu, Chuan Chen, Hong-Ning Dai, Zibin Zheng, "Cross-View Graph Matching for Incomplete Multi-view Clustering", _Neurocomputing_, 2022. [[全文]]()
+*  **Jing-Hua Yang**, Chuan Chen, Hong-Ning Dai, Meng Ding, Zhebin Wu, Zibin Zheng, "Robust Corrupted Data Recovery and Clustering via Generalized Transformed Tensor Low-rank Representation", _IEEE Transactions on Neural Networks and Learning Systems_, 2022. [[全文]]()
+*  
+*  **Jing-Hua Yang**, Le-Le Fu, Chuan Chen, Hong-Ning Dai, Zibin Zheng, "Cross-View Graph Matching for Incomplete Multi-view Clustering", _Neurocomputing_, vol. 515, pp. 79-88, 2023. [[全文]](https://Jinghua-Yang.github.io/papers/22Neu_JHYang_clustering.pdf)
 
 *  **Jing-Hua Yang**, Chuan Chen, Hong-Ning Dai, Le-Le Fu, Zibin Zheng, "A structure noise-aware tensor dictionary learning method for high-dimensional data clustering", _Information Sciences_, vol. 612, pp. 87-106, 2022. [[全文]](https://Jinghua-Yang.github.io/papers/22IS_JHYang_clustering.pdf)
 
@@ -52,7 +55,7 @@ permalink: /Chinese/
 
 
 #### 会议 (发表)
-* **Jing-Hua Yang**, Chuan Chen, Hong-Ning Dai, Meng Ding, Le-le Fu, Zibin Zheng,  "Hierarchical representation for multi-view clustering: from intra-sample to intra-view to inter-view", In ACM International Conference on Information and Knowledge Management, 2022. [[全文]]()
+* **Jing-Hua Yang**, Chuan Chen, Hong-Ning Dai, Meng Ding, Le-le Fu, Zibin Zheng,  "Hierarchical representation for multi-view clustering: from intra-sample to intra-view to inter-view", In ACM International Conference on Information and Knowledge Management, 2022. [[全文]](https://Jinghua-Yang.github.io/papers/22CIKM_JHYang_HMVC.pdf)
 
 * Meng Ding, Ting-Zhu Huang, Xi-Le Zhao, Jie Lin, **Jing-Hua Yang**, "Factor-regularized nonnegative tensor decomposition for blind hyperspectral unmixing", In IEEE International Geoscience and Remote Sensing Symposium IGARSS, 2021. [[全文]]()
 
