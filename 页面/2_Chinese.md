@@ -32,7 +32,7 @@ permalink: /Chinese/
 
 #### 期刊 (发表)
 *  **Jing-Hua Yang**, Chuan Chen, Hong-Ning Dai, Meng Ding, Zhebin Wu, Zibin Zheng, "Robust Corrupted Data Recovery and Clustering via Generalized Transformed Tensor Low-rank Representation", _IEEE Transactions on Neural Networks and Learning Systems_, 2022. [[全文]]()
-*  
+
 *  **Jing-Hua Yang**, Le-Le Fu, Chuan Chen, Hong-Ning Dai, Zibin Zheng, "Cross-View Graph Matching for Incomplete Multi-view Clustering", _Neurocomputing_, vol. 515, pp. 79-88, 2023. [[全文]](https://Jinghua-Yang.github.io/papers/22Neu_JHYang_clustering.pdf)
 
 *  **Jing-Hua Yang**, Chuan Chen, Hong-Ning Dai, Le-Le Fu, Zibin Zheng, "A structure noise-aware tensor dictionary learning method for high-dimensional data clustering", _Information Sciences_, vol. 612, pp. 87-106, 2022. [[全文]](https://Jinghua-Yang.github.io/papers/22IS_JHYang_clustering.pdf)
