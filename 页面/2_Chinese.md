@@ -64,7 +64,7 @@ permalink: /Chinese/
 
 ### 教育背景
 
-* 09/2020-至今: 博士, 澳门科技大学 人工智能专业 (导师: [戴宏宁教授](https://www.henrylab.net/pubtype/journal/))
+* 09/2020-至今: 博士, 澳门科技大学 人工智能专业 (导师: [戴弘宁教授](https://www.henrylab.net/pubtype/journal/))
 
 * 09/2019-06/2020: 助教, 电子科技大学成都学院 
 
