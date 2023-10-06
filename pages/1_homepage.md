@@ -13,7 +13,7 @@ permalink: /homepage/
  
 ### Biography
  
-| <br>**Jinghua Yang** is currently working with the School of Information Science and Technology, [Southwest Jiaotong University (SWJTU)] (https://www.swjtu.edu.cn/), Chengdu, China. I received the Ph.D. degree (advised by [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/) and [Prof.Chuan Chen](https://www.researchgate.net/profile/Chuan_Chen5)) from the [Faculty of Information Technology], [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China. My research interest includes data mining, image processing, tensor analysis, and deep learning. <br> <br> **Email:** <yangjinghua110@126.com>  &emsp; **Follow me:** [Google Scholar](https://scholar.google.com.tw/citations?hl=zh-CN&user=LarvIwUAAAAJ)  &emsp;
+| <br>**Jinghua Yang** is currently working with the School of Information Science and Technology, Southwest Jiaotong University (SWJTU), Chengdu, China. I received the Ph.D. degree (advised by [Prof. Hong-Ning Dai](https://www.henrylab.net/pubtype/journal/) and [Prof.Chuan Chen](https://www.researchgate.net/profile/Chuan_Chen5)) from the [Faculty of Information Technology], [Macau University of Science and Technology (MUST)](https://www.must.edu.mo/), Macau, China. My research interest includes data mining, image processing, tensor analysis, and deep learning. <br> <br> **Email:** <yangjinghua110@126.com>  &emsp; **Follow me:** [Google Scholar](https://scholar.google.com.tw/citations?hl=zh-CN&user=LarvIwUAAAAJ)  &emsp;
 
 
 
