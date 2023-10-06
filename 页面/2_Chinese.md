@@ -13,7 +13,7 @@ permalink: /Chinese/
  
 ### 简介
  
-| <br>**杨晶华**，2020级人工智能博士生， 资讯科技学院，澳门科技大学，导师为[戴宏宁教授](https://www.henrylab.net/pubtype/journal/)和[陈川副教授](https://www.researchgate.net/profile/Chuan_Chen5)。 硕士就读于电子科技大学数学科学学院。目前研究方向包括数据挖掘，图像处理、张量分析，深度学习。 <br> <br> **邮箱:** <yangjinghua110@126.com> <br>  **链接:** [Google Scholar](https://scholar.google.com/citations?view_op=&user=Q5D6JL8AAAAJ)  &emsp;  |
+| <br>**杨晶华**，西南交通大学信息科学与技术学院讲师。博士就读于澳门科技大学资讯科技学院，人工智能专业，导师为[戴宏宁教授](https://www.henrylab.net/pubtype/journal/)和[陈川副教授](https://www.researchgate.net/profile/Chuan_Chen5)。 硕士就读于电子科技大学数学科学学院，计算数学专业。目前研究方向包括数据挖掘，图像处理、张量分析，深度学习。 <br> <br> **邮箱:** <yangjinghua110@126.com> <br>  **链接:** [Google Scholar](https://scholar.google.com/citations?view_op=&user=Q5D6JL8AAAAJ)  &emsp;  |
 
 ### 消息
 * 2022.10: 文章 **J-H. Yang**, C. Chen, H-N. Dai, M. Ding, Z. Wu, Z. Zheng ["Robust Corrupted Data Recovery and Clustering via Generalized Transformed Tensor Low-rank Representation"] 被期刊 _**IEEE Transactions on Neural Networks and Learning Systems**_ 接受.
