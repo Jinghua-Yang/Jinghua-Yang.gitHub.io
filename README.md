@@ -4,5 +4,5 @@
 
 ## 访问链接
 
-- 用户主页方案：<https://jinghua-yang.github.io/>
+- https://Jinghua-Yang.gitHub.io/Yang-Jinghua.gitHub.io/
 
