@@ -4,5 +4,5 @@
 
 ## 访问链接
 
-- https://Jinghua-Yang.gitHub.io/Yang-Jinghua.gitHub.io/
+- https://Jinghua-Yang.gitHub.io
 
