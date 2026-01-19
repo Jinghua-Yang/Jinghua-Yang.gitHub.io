@@ -3,25 +3,29 @@
 
 == 2025
 
+- *Jing-Hua Yang*, Heng-Chao Li*, Meng Ding*, Xi-Le Zhao, and Wen-Yu Hu, "Tensor Multi-Subspace Representation for Remote Sensing Image Mixed Noise Removal", _IEEE Transactions on Neural Networks and Learning Systems_, 2025. [https://Jinghua-Yang.gitHub.io/Yang-Jinghua.gitHub.io/papers/2025/7.pdf PDF]、
+
+- Heng-Chao Li, Jun-Qiu Wang, Si-Jia Xiang, *Jing-Hua Yang**, and Qian Du, "Unsupervised Feature Dimensionality Reduction via Latent Low-Rank Embedding Projection for Classification of Hyperspectral Images", _IEEE Transactions on Circuits and Systems for Video Technology_, 2025. [https://Jinghua-Yang.gitHub.io/Yang-Jinghua.gitHub.io/papers/2025/8.pdf PDF]
+
 - Jin-Yu Yang, *Jing-Hua Yang*, Heng-Chao Li, Shaohui Mei, Qian Du, and Antonio Plaza, "Tensorized High-Order Hypergraph Convolutional Network for Hyperspectral Image Classification", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 63, pp. 1-16, 2025. [https://Jinghua-Yang.gitHub.io/Yang-Jinghua.gitHub.io/papers/2025/1.pdf PDF]
 
-- Zhi Xu, *Jing-Hua Yang*, Xi-Le Zhao, Xi-hong Yan, and Chuan-long Wang, "Tensor completion via total curvature variation and low-rank matrix factorization", _Applied Mathematical Modelling_, vol. 150, pp. 116368, 2026. [https://Jinghua-Yang.gitHub.io/Yang-Jinghua.gitHub.io/papers/2025/2.pdf PDF]
+- Zhi Xu, *Jing-Hua Yang**, Xi-Le Zhao, Xi-hong Yan, and Chuan-long Wang, "Tensor completion via total curvature variation and low-rank matrix factorization", _Applied Mathematical Modelling_, vol. 150, pp. 116368, 2026. [https://Jinghua-Yang.gitHub.io/Yang-Jinghua.gitHub.io/papers/2025/2.pdf PDF]
 
-- Ze-Chen Li, Heng-Chao Li, *Jing-Hua Yang*, Fan Zhang, and Jie Pan, "Multiscale Gaussian Process-Driven Graph Convolutional Neural Network for Polarimetric SAR Image Classification", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 18, pp. 20929-20946, 2025. [https://Jinghua-Yang.gitHub.io/Yang-Jinghua.gitHub.io/papers/2025/3.pdf PDF]
+- Ze-Chen Li, Heng-Chao Li, *Jing-Hua Yang**, Fan Zhang, and Jie Pan, "Multiscale Gaussian Process-Driven Graph Convolutional Neural Network for Polarimetric SAR Image Classification", _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 18, pp. 20929-20946, 2025. [https://Jinghua-Yang.gitHub.io/Yang-Jinghua.gitHub.io/papers/2025/3.pdf PDF]
+
+- Meng Ding, *Jing-Hua Yang**, Xi-Le Zhao, Jie Zhang, and Michael K. Ng*, "Nonconvex Low-Rank Tensor Representation for Multi-View Subspace Clustering With Insufficient Observed Samples", _IEEE Transactions on Knowledge and Data Engineering_, vol. 37, no. 6, pp. 3583-3597, 2025. [https://Jinghua-Yang.gitHub.io/Yang-Jinghua.gitHub.io/papers/2025/6.pdf PDF]
 
 - *Jing-Hua Yang*, Yi Zhou, Lefei Zhang, and Heng-Chao Li, "Mixed-noise robust tensor multi-view clustering via adaptive dictionary learning", _Information Fusion_, vol. 123, pp. 103322, 2025. [https://Jinghua-Yang.gitHub.io/Yang-Jinghua.gitHub.io/papers/2025/4.pdf PDF]
 
 - Meng Ding, Xi-Le Zhao, *Jing-Hua Yang*, Zhengchun Zhou, and Michael K. Ng, "Bilateral Tensor Low-Rank Representation for Insufficient Observed Samples in Multidimensional Image Clustering and Recovery", _SIAM Journal on Imaging Sciences_, vol. 18, no. 1, pp. 20-59, 2025. [https://Jinghua-Yang.gitHub.io/Yang-Jinghua.gitHub.io/papers/2025/5.pdf PDF]
 
-- Meng Ding, *Jing-Hua Yang*, Xi-Le Zhao, Jie Zhang, and Michael K. Ng, "Nonconvex Low-Rank Tensor Representation for Multi-View Subspace Clustering With Insufficient Observed Samples", _IEEE Transactions on Knowledge and Data Engineering_, vol. 37, no. 6, pp. 3583-3597, 2025. [https://Jinghua-Yang.gitHub.io/Yang-Jinghua.gitHub.io/papers/2025/6.pdf PDF]
 
-- *Jing-Hua Yang*, Heng-Chao Li, Meng Ding, Xi-Le Zhao, and Wen-Yu Hu, "Tensor Multi-Subspace Representation for Remote Sensing Image Mixed Noise Removal", _IEEE Transactions on Neural Networks and Learning Systems_, 2025. [https://Jinghua-Yang.gitHub.io/Yang-Jinghua.gitHub.io/papers/2025/7.pdf PDF]
 
 == 2024
 
-- Zhi Xu, *Jing-Hua Yang*, Chuan-long Wang, Fu-sheng Wang, and Xi-hong Yan, "Tensor robust principal component analysis with total generalized variation for high-dimensional data recovery", _Applied Mathematics and Computation_, vol. 483, pp. 128980, 2024. [https://Jinghua-Yang.gitHub.io/Yang-Jinghua.gitHub.io/papers/2024/1.pdf PDF]
+- Zhi Xu, *Jing-Hua Yang**, Chuan-long Wang, Fu-sheng Wang, and Xi-hong Yan, "Tensor robust principal component analysis with total generalized variation for high-dimensional data recovery", _Applied Mathematics and Computation_, vol. 483, pp. 128980, 2024. [https://Jinghua-Yang.gitHub.io/Yang-Jinghua.gitHub.io/papers/2024/1.pdf PDF]
 
-- Qian Wang, Hong-Ning Dai, *Jinghua Yang*, Cai Guo, Peter Childs, Maaike Kleinsmann, Yike Guo, and Pan Wang, "Learning-based Artificial Intelligence Artwork: Methodology Taxonomy and Quality Evaluation", _ACM Comput. Surv._, vol. 57, no. 3, pp. 71, 2024. [https://Jinghua-Yang.gitHub.io/Yang-Jinghua.gitHub.io/papers/2024/2.pdf PDF]
+- Qian Wang, Hong-Ning Dai*, *Jinghua Yang*, Cai Guo, Peter Childs, Maaike Kleinsmann, Yike Guo, and Pan Wang, "Learning-based Artificial Intelligence Artwork: Methodology Taxonomy and Quality Evaluation", _ACM Comput. Surv._, vol. 57, no. 3, pp. 71, 2024. [https://Jinghua-Yang.gitHub.io/Yang-Jinghua.gitHub.io/papers/2024/2.pdf PDF]
 
 - Meng Ding, *Jinghua Yang*, and Jin-Jin Mei, "Noisy tensor recovery via nonconvex optimization with theoretical recoverability", _Applied Mathematics Letters_, vol. 157, pp. 109170, 2024. [https://Jinghua-Yang.gitHub.io/Yang-Jinghua.gitHub.io/papers/2024/3.pdf PDF]
 
