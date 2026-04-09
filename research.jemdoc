@@ -1,11 +1,14 @@
 # jemdoc: menu{MENU}{research.html}, nofooter
 = Papers
 
+== 2026
+
+- *Jing-Hua Yang*, Heng-Chao Li\*, Meng Ding\*, Xi-Le Zhao, and Wen-Yu Hu, "Tensor Multi-Subspace Representation for Remote Sensing Image Mixed Noise Removal", _IEEE Transactions on Neural Networks and Learning Systems_, vol. 37, pp. 1048-1062, 2026. [https://Jinghua-Yang.gitHub.io/papers/2025/7.pdf PDF]
+
+- Heng-Chao Li, Jun-Qiu Wang, Si-Jia Xiang, *Jing-Hua Yang\**, and Qian Du, "Unsupervised Feature Dimensionality Reduction via Latent Low-Rank Embedding Projection for Classification of Hyperspectral Images", _IEEE Transactions on Circuits and Systems for Video Technology_, 2026. [https://Jinghua-Yang.gitHub.io/papers/2025/8.pdf PDF]
+
+
 == 2025
-
-- *Jing-Hua Yang*, Heng-Chao Li\*, Meng Ding\*, Xi-Le Zhao, and Wen-Yu Hu, "Tensor Multi-Subspace Representation for Remote Sensing Image Mixed Noise Removal", _IEEE Transactions on Neural Networks and Learning Systems_, 2025. [https://Jinghua-Yang.gitHub.io/papers/2025/7.pdf PDF]
-
-- Heng-Chao Li, Jun-Qiu Wang, Si-Jia Xiang, *Jing-Hua Yang\**, and Qian Du, "Unsupervised Feature Dimensionality Reduction via Latent Low-Rank Embedding Projection for Classification of Hyperspectral Images", _IEEE Transactions on Circuits and Systems for Video Technology_, 2025. [https://Jinghua-Yang.gitHub.io/papers/2025/8.pdf PDF]
 
 - Jin-Yu Yang, *Jing-Hua Yang\**, Heng-Chao Li, Shaohui Mei, Qian Du, and Antonio Plaza, "Tensorized High-Order Hypergraph Convolutional Network for Hyperspectral Image Classification", _IEEE Transactions on Geoscience and Remote Sensing_, vol. 63, pp. 1-16, 2025. [https://Jinghua-Yang.gitHub.io/papers/2025/1.pdf PDF]
 
